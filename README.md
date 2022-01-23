@@ -1,16 +1,6 @@
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm install`
-
-<!-- Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser. -->
-
 ## `Projects Mission`
 
-The purpose of this project is to create a ERC-20 Token using OpenZeppelin Solidity.
+Client application interacting with smart contracts that follow ERCs standards.
 
 <!-- ## Features
 
